@@ -1,0 +1,6 @@
+{
+	"extends": ["fast-lint-prettify"],
+	"env": {
+		"node": true
+	}
+}
