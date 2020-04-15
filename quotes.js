@@ -51,6 +51,100 @@ const quotes = [
 			'If you don’t give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.',
 		author: 'Jack Ma',
 	},
+	{
+		quote: 'Effort only fully releases its reward after a person refuses to quit.',
+		author: 'Napoleon Hill',
+	},
+	{
+		quote:
+			'Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.',
+		author: 'Mark Twain',
+	},
+	{
+		quote: 'They built the pyramids without electricity, there was no app for that.',
+		author: 'Noel Gallagher',
+	},
+	{
+		quote: 'Even if you’re on the right track, you’ll get run over if you just sit there.',
+		author: 'Will Rogers',
+	},
+	{
+		quote:
+			'The best way to not feel hopeless is to get up and do something. Don’t wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.',
+		author: 'Barack Obama',
+	},
+	{
+		quote: 'When you win, say nothing. When you lose, say less.',
+		author: 'Paul Brown',
+	},
+	{
+		quote: 'What I can’t create, I do not understand.',
+		author: 'Richard Feynman',
+	},
+	{
+		quote:
+			'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.',
+		author: 'Charles F. Kettering',
+	},
+	{
+		quote: 'The day a product development process starts, it’s behind schedule and above budget.',
+		author: 'Don Norman',
+	},
+	{
+		quote: 'In theory, there is no difference between theory and practice. In practice, there is.',
+		author: 'Don Norman',
+	},
+	{
+		quote: 'Do not let what you cannot do interfere with what you can do.',
+		author: 'John Wooden',
+	},
+	{
+		quote:
+			'When something annoys you, it could be because you’re living in the future… Live in the future and build what seems interesting.',
+		author: 'Paul Graham',
+	},
+	{
+		quote: 'Without passion we might all just be dead.',
+		author: 'Max Payne',
+	},
+	{
+		quote:
+			'If you’re changing the world, you’re working on important things. You’re excited to get up in the morning.',
+		author: 'Larry Page',
+	},
+	{
+		quote:
+			'Instead of buying your children all the things you never had, you should teach them all the things you were never taught. Material wears out but knowledge stays.',
+		author: 'Bruce Lee',
+	},
+	{
+		quote: 'Life is more than just salary',
+		author: 'Michael Scott',
+		source: 'The Office',
+	},
+	{
+		quote:
+			'It is easy to sit up and take notice, What is difficult is getting up and taking action.',
+		author: 'Honore de Balzac',
+	},
+	{
+		quote:
+			'If you’re not embarrassed by your old code then you aren’t progressing as a programmer.',
+		author: 'Unknown',
+	},
+	{
+		quote: 'Vision without action is daydream. Action without vision is nightmare.',
+		author: 'Japanese Proverb',
+	},
+	{
+		quote:
+			'The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better',
+		author: 'Barbara Pletcher',
+	},
+	{
+		quote: 'If you are born poor, it is not your mistake. But if you die poor it is your mistake.',
+		author: 'Bill Gates',
+	},
 ];
 
 module.exports = quotes;
