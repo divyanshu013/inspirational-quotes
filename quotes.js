@@ -5,34 +5,32 @@ const quotes = [
 		author: 'Paulo Coelho',
 	},
 	{
-		quote:
-			'And, when you want something, all the universe conspires in helping you to achieve it.',
+		quote: 'And, when you want something, all the universe conspires in helping you to achieve it.',
 		author: 'Paulo Coelho',
-		source: 'The Alchemist'
+		source: 'The Alchemist',
 	},
 	{
 		quote:
 			'In the long run, what people think about shepherds and bakers becomes more important for them than their own destinies.',
 		author: 'Paulo Coelho',
-		source: 'The Alchemist'
+		source: 'The Alchemist',
 	},
 	{
 		quote:
 			'If you start out by promising what you don’t even have yet, you’ll lose your desire to work toward getting it.',
 		author: 'Paulo Coelho',
-		source: 'The Alchemist'
+		source: 'The Alchemist',
 	},
 	{
 		quote:
 			'And when each day is the same as the next, it’s because people fail to recognize the good things that happen in their lives every day that the sun rises.',
 		author: 'Paulo Coelho',
-		source: 'The Alchemist'
+		source: 'The Alchemist',
 	},
 	{
-		quote:
-			'There was nothing to hold him back except himself.',
+		quote: 'There was nothing to hold him back except himself.',
 		author: 'Paulo Coelho',
-		source: 'The Alchemist'
+		source: 'The Alchemist',
 	},
 	{
 		quote:
@@ -251,7 +249,8 @@ const quotes = [
 		author: 'Orson Welles',
 	},
 	{
-		quote: 'Even if you have a 9 to 6 job, 7 to 2 is still enough time to do some serious damage, stop watching lost.',
+		quote:
+			'Even if you have a 9 to 6 job, 7 to 2 is still enough time to do some serious damage, stop watching lost.',
 		author: 'Gary Vaynerchuk',
 	},
 	{
@@ -265,22 +264,24 @@ const quotes = [
 	{
 		quote: 'If a fool is foolish enough he’ll achieve the impossible.',
 		author: 'Eiichiro Oda',
-		source: 'One Piece'
+		source: 'One Piece',
 	},
 	{
-		quote: 'When you kill a man at war, you’re branded as a hero; kill the same man at peace and you’re called a murderer',
+		quote:
+			'When you kill a man at war, you’re branded as a hero; kill the same man at peace and you’re called a murderer',
 		author: 'Eiichiro Oda',
-		source: 'One Piece'
+		source: 'One Piece',
 	},
 	{
 		quote: 'Winners don’t make excuses when the other side plays the game.',
 		author: 'Unknown',
-		source: 'Harvey Specter - Suits'
+		source: 'Harvey Specter - Suits',
 	},
 	{
-		quote: 'If friends you trust, gather around you; hope can take physical form and become visible.',
+		quote:
+			'If friends you trust, gather around you; hope can take physical form and become visible.',
 		author: 'Eiichiro Oda',
-		source: 'One Piece'
+		source: 'One Piece',
 	},
 	{
 		quote: 'Remove the temptation to settle for anything short of what you deserve.',
@@ -312,8 +313,7 @@ const quotes = [
 		author: "Johan 'N0tail' Sundstein",
 	},
 	{
-		quote:
-			'Everything can work!',
+		quote: 'Everything can work!',
 		author: "Johan 'N0tail' Sundstein",
 	},
 	{
@@ -517,7 +517,7 @@ const quotes = [
 	},
 	{
 		quote:
-			'To be honest, I never saw MCR going past The Black Parade. I plan things pretty far in advance. I definitely knew I had the title of the second album before we'd even recorded the first. By the time I got to the third album, which didn't have a name, I felt like that was the end. Basically the time spent after Black Parade was spent fighting against that instinct and fighting against myself. The end of Black Parade felt like a very natural ending. To go beyond that felt like betraying some sort of artistic command that I had within myself. Thank goodness they didn’t stop there!',
+			'To be honest, I never saw MCR going past The Black Parade. I plan things pretty far in advance. I definitely knew I had the title of the second album before we’d even recorded the first. By the time I got to the third album, which didn’t have a name, I felt like that was the end. Basically the time spent after Black Parade was spent fighting against that instinct and fighting against myself. The end of Black Parade felt like a very natural ending. To go beyond that felt like betraying some sort of artistic command that I had within myself. Thank goodness they didn’t stop there!',
 		author: 'Gerard Way',
 	},
 	{
@@ -547,7 +547,8 @@ const quotes = [
 		source: 'Angels & Demons',
 	},
 	{
-		quote: 'The goal of terrorism is to create terror and fear. Fear undermines faith in the establishment.',
+		quote:
+			'The goal of terrorism is to create terror and fear. Fear undermines faith in the establishment.',
 		author: 'Dan Brown',
 		source: 'Angels & Demons',
 	},
@@ -557,12 +558,14 @@ const quotes = [
 		source: 'The Design of Everyday Things',
 	},
 	{
-		quote: 'I measure my success by how happy I am, not how big the business is out how much money I’ve made.',
+		quote:
+			'I measure my success by how happy I am, not how big the business is out how much money I’ve made.',
 		author: 'Gary Vaynerchuk',
 		source: 'Crush It',
 	},
 	{
-		quote: 'You spend so much time at work, why waste it doing anything other than what you love most? Life is too short for that.',
+		quote:
+			'You spend so much time at work, why waste it doing anything other than what you love most? Life is too short for that.',
 		author: 'Gary Vaynerchuk',
 		source: 'Crush It',
 	},
@@ -572,7 +575,8 @@ const quotes = [
 		source: 'Crush It',
 	},
 	{
-		quote: 'No matter how much you like your job, you should aim to leave it and grow your own brand and business or partner with someone to do so, because as long as you’re working for someone else you will never be living entirely true to yourself and your passion.',
+		quote:
+			'No matter how much you like your job, you should aim to leave it and grow your own brand and business or partner with someone to do so, because as long as you’re working for someone else you will never be living entirely true to yourself and your passion.',
 		author: 'Gary Vaynerchuk',
 		source: 'Crush It',
 	},
@@ -582,47 +586,56 @@ const quotes = [
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'What had happened to the uncommon passion I brought to everything I did when I was younger? Back then, even the simplest of things filled me with a sense of joy. Maybe it was time for me to reinvent my destiny.',
+		quote:
+			'What had happened to the uncommon passion I brought to everything I did when I was younger? Back then, even the simplest of things filled me with a sense of joy. Maybe it was time for me to reinvent my destiny.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'To stop spending so much time making a living and to spend far more time creating a life.',
+		quote:
+			'To stop spending so much time making a living and to spend far more time creating a life.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'When you’re inspired by some extraordinary project, all of your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive and you discover yourself to be a greater person than you ever dreamed yourself to be.',
+		quote:
+			'When you’re inspired by some extraordinary project, all of your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive and you discover yourself to be a greater person than you ever dreamed yourself to be.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'With one eye fixed on the destination, there is only one left to guide you along the journey.',
+		quote:
+			'With one eye fixed on the destination, there is only one left to guide you along the journey.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'The moment you concentrate the focus of your mind on a singular purpose, extraordinary gifts will appear within your life.',
+		quote:
+			'The moment you concentrate the focus of your mind on a singular purpose, extraordinary gifts will appear within your life.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'Find out what you truly love to do and then direct all of your energy towards doing it.',
+		quote:
+			'Find out what you truly love to do and then direct all of your energy towards doing it.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'What really separates people who are habitually upbeat and optimistic from those who are consistently miserable is how the circumstances of life are interpreted and processed.',
+		quote:
+			'What really separates people who are habitually upbeat and optimistic from those who are consistently miserable is how the circumstances of life are interpreted and processed.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'When you form the habit of searching for the positive in every circumstance, your life will move into its highest dimensions.',
+		quote:
+			'When you form the habit of searching for the positive in every circumstance, your life will move into its highest dimensions.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'How can you really know the joy of being on the summit of the mountain unless you’ve first visited the lowest valley.',
+		quote:
+			'How can you really know the joy of being on the summit of the mountain unless you’ve first visited the lowest valley.',
 		author: 'Robin Sharma',
 		source: 'The Monk who sold his Ferrari',
 	},
@@ -632,12 +645,14 @@ const quotes = [
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'As a teenager I made mixtapes for crushes with no interest in my music taste. Now I do talks! Life, uh, finds a way.',
+		quote:
+			'As a teenager I made mixtapes for crushes with no interest in my music taste. Now I do talks! Life, uh, finds a way.',
 		author: 'Dan Abramov',
 		source: 'Overreacted.io',
 	},
 	{
-		quote: 'Before you can optimize your app you should optimize your workflow, so you have more time to work on your app.',
+		quote:
+			'Before you can optimize your app you should optimize your workflow, so you have more time to work on your app.',
 		author: 'Dan Abramov',
 	},
 	{
@@ -651,7 +666,8 @@ const quotes = [
 		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
-		quote: 'The trouble is, humans do have a knack of choosing precisely those things which are worst for them.',
+		quote:
+			'The trouble is, humans do have a knack of choosing precisely those things which are worst for them.',
 		author: 'J. K. Rowling',
 		source: 'Albus Dumbledore - Harry Potter',
 	},
@@ -661,12 +677,14 @@ const quotes = [
 		source: 'Harry - Harry Potter',
 	},
 	{
-		quote: 'You think the dead we’ve loved ever truly leave us? You think that we don’t recall them more clearly than ever in times of great trouble?… So you did see your father last night, you found him inside yourself.',
+		quote:
+			'You think the dead we’ve loved ever truly leave us? You think that we don’t recall them more clearly than ever in times of great trouble?… So you did see your father last night, you found him inside yourself.',
 		author: 'J. K. Rowling',
 		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
-		quote: 'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.',
+		quote:
+			'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.',
 		author: 'J. K. Rowling',
 		source: 'Sirius Black - Harry Potter',
 	},
