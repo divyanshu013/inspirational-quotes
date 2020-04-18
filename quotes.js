@@ -6,8 +6,53 @@ const quotes = [
 	},
 	{
 		quote:
+			'And, when you want something, all the universe conspires in helping you to achieve it.',
+		author: 'Paulo Coelho',
+		source: 'The Alchemist'
+	},
+	{
+		quote:
+			'In the long run, what people think about shepherds and bakers becomes more important for them than their own destinies.',
+		author: 'Paulo Coelho',
+		source: 'The Alchemist'
+	},
+	{
+		quote:
+			'If you start out by promising what you don’t even have yet, you’ll lose your desire to work toward getting it.',
+		author: 'Paulo Coelho',
+		source: 'The Alchemist'
+	},
+	{
+		quote:
+			'And when each day is the same as the next, it’s because people fail to recognize the good things that happen in their lives every day that the sun rises.',
+		author: 'Paulo Coelho',
+		source: 'The Alchemist'
+	},
+	{
+		quote:
+			'There was nothing to hold him back except himself.',
+		author: 'Paulo Coelho',
+		source: 'The Alchemist'
+	},
+	{
+		quote:
 			'I’m not afraid to die without a doubt because I know for a fact that I’ve lived every single moment I’ve been here.',
 		author: 'Liam Gallagher',
+	},
+	{
+		quote:
+			'If she’s amazing, she won’t be easy. If she’s easy, she won’t be amazing. If she’s worth it, you wont give up. If you give up, you’re not worthy… Truth is, everybody is going to hurt you; you just gotta find the ones worth suffering for.',
+		author: 'Bob Marley',
+	},
+	{
+		quote:
+			'The more you hurt at the parting, the more it proves the depth of your love. If you always fear sorrow you’ll never be able to love at all.',
+		author: 'Unknown',
+	},
+	{
+		quote:
+			'Work hard to improve your CGPA or work hard to improve your reason for getting a low CGPA',
+		author: 'Unknown',
 	},
 	{
 		quote:
@@ -190,6 +235,54 @@ const quotes = [
 		author: 'Albert Einstein',
 	},
 	{
+		quote: 'When we hit our lowest point, we are open to our greatest change.',
+		author: 'Aang - Avatar',
+	},
+	{
+		quote: 'You’ll never know until you try.',
+		author: 'Unknown',
+	},
+	{
+		quote: 'There’s always another way…',
+		author: 'Unknown',
+	},
+	{
+		quote: 'If you want a happy ending, that depends, of course, on where you stop your story.',
+		author: 'Orson Welles',
+	},
+	{
+		quote: 'Even if you have a 9 to 6 job, 7 to 2 is still enough time to do some serious damage, stop watching lost.',
+		author: 'Gary Vaynerchuk',
+	},
+	{
+		quote: 'You don’t have to be great to start, but you have to start to be great.',
+		author: ' Zig Ziglar',
+	},
+	{
+		quote: 'May your choices reflect your hopes, not your fears.',
+		author: 'Gary Vaynerchuk',
+	},
+	{
+		quote: 'If a fool is foolish enough he’ll achieve the impossible.',
+		author: 'Eiichiro Oda',
+		source: 'One Piece'
+	},
+	{
+		quote: 'When you kill a man at war, you’re branded as a hero; kill the same man at peace and you’re called a murderer',
+		author: 'Eiichiro Oda',
+		source: 'One Piece'
+	},
+	{
+		quote: 'Winners don’t make excuses when the other side plays the game.',
+		author: 'Unknown',
+		source: 'Harvey Specter - Suits'
+	},
+	{
+		quote: 'If friends you trust, gather around you; hope can take physical form and become visible.',
+		author: 'Eiichiro Oda',
+		source: 'One Piece'
+	},
+	{
 		quote: 'Remove the temptation to settle for anything short of what you deserve.',
 		author: 'Lorii Myers',
 	},
@@ -216,6 +309,11 @@ const quotes = [
 	{
 		quote:
 			'I always believe the hardest choices in life are the right ones and the ones that are easy are usually the wrong ones',
+		author: "Johan 'N0tail' Sundstein",
+	},
+	{
+		quote:
+			'Everything can work!',
 		author: "Johan 'N0tail' Sundstein",
 	},
 	{
@@ -324,6 +422,111 @@ const quotes = [
 		author: 'Stephen King',
 	},
 	{
+		quote:
+			'Let us think the unthinkable, let us do the undoable, let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.',
+		author: 'Douglas Adams',
+	},
+	{
+		quote:
+			'Winners lose much more often than losers. So if you keep losing but you’re still trying, keep it up! You’re right on track.',
+		author: 'Matthew Keith Groves',
+	},
+	{
+		quote: 'You are very powerful, provided you know how powerful you are.',
+		author: 'Yogi Bhajan',
+	},
+	{
+		quote:
+			'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.',
+		author: 'Charles F. Kettering',
+	},
+	{
+		quote:
+			'Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.',
+		author: 'Christiane Northrup',
+	},
+	{
+		quote:
+			'You know what it’s like to wake up in the middle of the night with a vivid dream? And you know that if you don’t have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it’s important to wake up and stop dreaming. When a really great dream shows up, grab it.',
+		author: 'Larry Page',
+	},
+	{
+		quote:
+			'The best way to not feel hopeless is to get up and do something. Don’t wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.',
+		author: 'Barack Obama',
+	},
+	{
+		quote:
+			'Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You’ll win more trust, you’ll win more business, and you’ll win more peace of mind. You’ll break the system and be even more successful.',
+		author: 'Dale Patridge',
+	},
+	{
+		quote:
+			'Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.',
+		author: 'Voltaire',
+	},
+	{
+		quote:
+			'A successful man is one who can lay a firm foundation with the bricks that others throw at him.',
+		author: 'Sidney Greenberg',
+	},
+	{
+		quote:
+			'I always advice people - Don’t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can’t possibly lose.',
+		author: 'Steve Jobs',
+	},
+	{
+		quote:
+			'Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It’s something we call heart power. Once a man has made his commitment, nothing will stop him short of success.',
+		author: 'Vince Lombardi',
+	},
+	{
+		quote:
+			'Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.',
+		author: 'Mohamad Ali',
+	},
+	{
+		quote:
+			'When action grows unprofitable, gather information; when information grows unprofitable, sleep.',
+		author: 'Ursula K. Le Guin',
+	},
+	{
+		quote:
+			'Sometimes you climb out of bed in the morning and you think, I’m not going to make it, but you laugh inside — remembering all the times you’ve felt that way.',
+		author: 'Charles Bukowski',
+	},
+	{
+		quote:
+			'Go confidently in the direction of your dreams. Live the life you’ve imagined. As you simplify your life, the laws of the universe will be simpler.',
+		author: 'Henry David Thoreau',
+	},
+	{
+		quote:
+			'You should never view your challenges as a disadvantage. Instead, it’s important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.',
+		author: 'Michelle Obama',
+	},
+	{
+		quote:
+			'Just enjoy your tea and a cookie. And be nice to the people around you. That’s all there is. Everything else is just filling time.',
+		author: 'Pieter Levels’ dad',
+	},
+	{
+		quote:
+			'The things you learn in maturity aren’t simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.',
+		author: 'John Gardner',
+	},
+	{
+		quote:
+			'To be honest, I never saw MCR going past The Black Parade. I plan things pretty far in advance. I definitely knew I had the title of the second album before we'd even recorded the first. By the time I got to the third album, which didn't have a name, I felt like that was the end. Basically the time spent after Black Parade was spent fighting against that instinct and fighting against myself. The end of Black Parade felt like a very natural ending. To go beyond that felt like betraying some sort of artistic command that I had within myself. Thank goodness they didn’t stop there!',
+		author: 'Gerard Way',
+	},
+	{
+		quote:
+			'The only thing standing between us and a life filled with joy and everything we want is our very own self!',
+		author: 'Rhonda Byrne',
+		source: 'The Secret',
+	},
+	{
 		quote: 'Death exists, not as the opposite but as a part of life.',
 		author: 'Haruki Murakami',
 		source: 'Norwegian Wood',
@@ -337,6 +540,180 @@ const quotes = [
 		quote: 'The most dangerous enemy is that which no one fears.',
 		author: 'Dan Brown',
 		source: 'Angels & Demons',
+	},
+	{
+		quote: 'Sometimes to find truth, one must move mountains.',
+		author: 'Dan Brown',
+		source: 'Angels & Demons',
+	},
+	{
+		quote: 'The goal of terrorism is to create terror and fear. Fear undermines faith in the establishment.',
+		author: 'Dan Brown',
+		source: 'Angels & Demons',
+	},
+	{
+		quote: 'Profound ideas are always obvious once they are understood.',
+		author: 'Don Norman',
+		source: 'The Design of Everyday Things',
+	},
+	{
+		quote: 'I measure my success by how happy I am, not how big the business is out how much money I’ve made.',
+		author: 'Gary Vaynerchuk',
+		source: 'Crush It',
+	},
+	{
+		quote: 'You spend so much time at work, why waste it doing anything other than what you love most? Life is too short for that.',
+		author: 'Gary Vaynerchuk',
+		source: 'Crush It',
+	},
+	{
+		quote: 'Skills are cheap, passion is priceless.',
+		author: 'Gary Vaynerchuk',
+		source: 'Crush It',
+	},
+	{
+		quote: 'No matter how much you like your job, you should aim to leave it and grow your own brand and business or partner with someone to do so, because as long as you’re working for someone else you will never be living entirely true to yourself and your passion.',
+		author: 'Gary Vaynerchuk',
+		source: 'Crush It',
+	},
+	{
+		quote: 'Never regret your past. Rather embrace it as the teacher that it is.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'What had happened to the uncommon passion I brought to everything I did when I was younger? Back then, even the simplest of things filled me with a sense of joy. Maybe it was time for me to reinvent my destiny.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'To stop spending so much time making a living and to spend far more time creating a life.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'When you’re inspired by some extraordinary project, all of your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive and you discover yourself to be a greater person than you ever dreamed yourself to be.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'With one eye fixed on the destination, there is only one left to guide you along the journey.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'The moment you concentrate the focus of your mind on a singular purpose, extraordinary gifts will appear within your life.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'Find out what you truly love to do and then direct all of your energy towards doing it.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'What really separates people who are habitually upbeat and optimistic from those who are consistently miserable is how the circumstances of life are interpreted and processed.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'When you form the habit of searching for the positive in every circumstance, your life will move into its highest dimensions.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'How can you really know the joy of being on the summit of the mountain unless you’ve first visited the lowest valley.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'Success on the outside means nothing unless you also have success within.',
+		author: 'Robin Sharma',
+		source: 'The Monk who sold his Ferrari',
+	},
+	{
+		quote: 'As a teenager I made mixtapes for crushes with no interest in my music taste. Now I do talks! Life, uh, finds a way.',
+		author: 'Dan Abramov',
+		source: 'Overreacted.io',
+	},
+	{
+		quote: 'Before you can optimize your app you should optimize your workflow, so you have more time to work on your app.',
+		author: 'Dan Abramov',
+	},
+	{
+		quote: 'Music, a magic beyond all we do here!',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'To the well organised mind, death is but the next great adventure.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'The trouble is, humans do have a knack of choosing precisely those things which are worst for them.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'I don’t go looking for trouble, trouble usually finds me.',
+		author: 'J. K. Rowling',
+		source: 'Harry - Harry Potter',
+	},
+	{
+		quote: 'You think the dead we’ve loved ever truly leave us? You think that we don’t recall them more clearly than ever in times of great trouble?… So you did see your father last night, you found him inside yourself.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.',
+		author: 'J. K. Rowling',
+		source: 'Sirius Black - Harry Potter',
+	},
+	{
+		quote: 'We’re only as strong as strong as we’re united, as weak as we’re divided.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'People find it far easier to forgive others for being wrong than being right.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'Greatness inspires envy, envy endangers spite, spite spawns lies.',
+		author: 'J. K. Rowling',
+		source: 'Lord Voldemort - Harry Potter',
+	},
+	{
+		quote: 'Age is foolish and forgetful when it underestimates youth.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'It is the unknown we fear when we look upon death and darkness, nothing more.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'Those who are best suited to power are those who have never sought it.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'Sometimes costs are made to be borne.',
+		author: 'J. K. Rowling',
+		source: 'Severus Snape - Harry Potter',
+	},
+	{
+		quote: 'Always.',
+		author: 'J. K. Rowling',
+		source: 'Severus Snape - Harry Potter',
+	},
+	{
+		quote: 'People linked by destiny will always find each other',
+		author: 'Andrzej Sapkowski',
+		source: 'The Witcher',
 	},
 ];
 
