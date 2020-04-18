@@ -14,7 +14,7 @@ yarn add @divyanshu013/inspirational-quotes
 
 ## Usage
 
-Check out all the [existing quotes](./quotes.js).
+Check out all the [existing quotes](./quotes.js) or the [random quote demo](https://codesandbox.io/s/inspiration-quotes-demo-u6lne?file=/src/App.js).
 
 Following exports are available from the module:
 
