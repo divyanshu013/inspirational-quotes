@@ -310,11 +310,11 @@ const quotes = [
 	{
 		quote:
 			'I always believe the hardest choices in life are the right ones and the ones that are easy are usually the wrong ones',
-		author: "Johan 'N0tail' Sundstein",
+		author: 'Johan ‘N0tail’ Sundstein',
 	},
 	{
 		quote: 'Everything can work!',
-		author: "Johan 'N0tail' Sundstein",
+		author: 'Johan ‘N0tail’ Sundstein',
 	},
 	{
 		quote: 'Find a purpose in life so big it will challenge every capacity to be at your best.',
@@ -732,6 +732,11 @@ const quotes = [
 		quote: 'People linked by destiny will always find each other',
 		author: 'Andrzej Sapkowski',
 		source: 'The Witcher',
+	},
+	{
+		quote: 'I let my playing do the talking',
+		author: 'Topias ‘Topson’ Taavitsainen',
+		source: 'Against the Odds',
 	},
 ];
 
