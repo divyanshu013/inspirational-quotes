@@ -748,6 +748,11 @@ const quotes = [
 		author: 'Jordan Peterson',
 		source: '12 Rules for Life',
 	},
+	{
+		quote:
+			'Think in terms of opportunities and solutions instead of problems, disappointment, and failure',
+		author: 'Lorii Myers',
+	},
 ];
 
 module.exports = quotes;
