@@ -753,6 +753,14 @@ const quotes = [
 			'Think in terms of opportunities and solutions instead of problems, disappointment, and failure',
 		author: 'Lorii Myers',
 	},
+	{
+		quote: 'Do the best you can until you know better. Then when you know better, do better.',
+		author: 'Maya Angelou',
+	},
+	{
+		quote: 'Songwriting is a thing we can’t stop. It’s a habit, almost.',
+		author: 'Paul McCartney',
+	},
 ];
 
 module.exports = quotes;
