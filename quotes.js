@@ -761,6 +761,10 @@ const quotes = [
 		quote: 'Songwriting is a thing we can’t stop. It’s a habit, almost.',
 		author: 'Paul McCartney',
 	},
+	{
+		quote: 'Everything will be okay in the end. If it’s not okay, it’s not the end.',
+		author: 'John Lennon',
+	},
 ];
 
 module.exports = quotes;
