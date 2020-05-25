@@ -765,6 +765,11 @@ const quotes = [
 		quote: 'Everything will be okay in the end. If it’s not okay, it’s not the end.',
 		author: 'John Lennon',
 	},
+	{
+		quote:
+			'Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.',
+		author: 'Isaac Lidsky',
+	},
 ];
 
 module.exports = quotes;
