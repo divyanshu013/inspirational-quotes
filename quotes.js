@@ -770,6 +770,10 @@ const quotes = [
 			'Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.',
 		author: 'Isaac Lidsky',
 	},
+	{
+		quote: 'It’s never been easier to start a company. It’s never been harder to build one.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
