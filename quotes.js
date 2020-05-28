@@ -774,6 +774,20 @@ const quotes = [
 		quote: 'It’s never been easier to start a company. It’s never been harder to build one.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'You can beat 40 scholars with one fact, but you can’t beat one idiot with 40 facts.',
+		author: 'Mevlana',
+	},
+	{
+		quote:
+			'Most people underestimate what they can do in a year, and overestimate what they can do in a day',
+		author: 'Bill Gates',
+	},
+	{
+		quote:
+			'Don’t write to make money, write to build relationships with like minded people that you haven’t yet met.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
