@@ -788,6 +788,19 @@ const quotes = [
 			'Don’t write to make money, write to build relationships with like minded people that you haven’t yet met.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote:
+			'The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.',
+		author: 'Alan Watts',
+	},
+	{
+		quote: 'When I get sad, I stop being sad and be awesome instead.',
+		author: 'Barney Stinson',
+	},
+	{
+		quote: 'All we’re saying, is give peace a chance.',
+		author: 'John Lennon',
+	},
 ];
 
 module.exports = quotes;
