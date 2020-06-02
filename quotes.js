@@ -805,6 +805,10 @@ const quotes = [
 		quote: 'No amount of indentation or sorting imports alphabetically can fix a broken design.',
 		author: 'Dan Abramov',
 	},
+	{
+		quote: 'Stop complaining. Start creating.',
+		author: 'Dale Patridge',
+	},
 ];
 
 module.exports = quotes;
