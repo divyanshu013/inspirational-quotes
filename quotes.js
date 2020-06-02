@@ -801,6 +801,10 @@ const quotes = [
 		quote: 'All we’re saying, is give peace a chance.',
 		author: 'John Lennon',
 	},
+	{
+		quote: 'No amount of indentation or sorting imports alphabetically can fix a broken design.',
+		author: 'Dan Abramov',
+	},
 ];
 
 module.exports = quotes;
