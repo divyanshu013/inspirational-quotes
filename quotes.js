@@ -809,6 +809,10 @@ const quotes = [
 		quote: 'Stop complaining. Start creating.',
 		author: 'Dale Patridge',
 	},
+	{
+		quote: 'Age is an issue of mind over matter. If you don’t mind, it doesn’t matter…',
+		author: 'Mark Twain',
+	},
 ];
 
 module.exports = quotes;
