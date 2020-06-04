@@ -813,6 +813,15 @@ const quotes = [
 		quote: 'Age is an issue of mind over matter. If you don’t mind, it doesn’t matter…',
 		author: 'Mark Twain',
 	},
+	{
+		quote:
+			'Your goal in life is to find out the people who need you the most, to find out the business that needs you the most, to find the project and the art that needs you the most. There is something out there just for you.',
+		author: 'Naval Ravikant',
+	},
+	{
+		quote: 'Your closest friends are the ones you can have a relationship with about nothing.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
