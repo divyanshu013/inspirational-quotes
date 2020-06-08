@@ -822,6 +822,11 @@ const quotes = [
 		quote: 'Your closest friends are the ones you can have a relationship with about nothing.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'I should call my parents when I think of them, should tell my friends when I love them',
+		author: 'Evan Stephens Hall',
+		source: 'Old Friends - Pinegrove',
+	},
 ];
 
 module.exports = quotes;
