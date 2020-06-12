@@ -827,6 +827,16 @@ const quotes = [
 		author: 'Evan Stephens Hall',
 		source: 'Old Friends - Pinegrove',
 	},
+	{
+		quote:
+			'I wish there was a way to know you’re in the good old days, before you’ve actually left them.',
+		author: 'Andy Bernard',
+		source: 'The Office',
+	},
+	{
+		quote: 'Extend beyond your preconceived limits!',
+		author: 'Lorii Myers',
+	},
 ];
 
 module.exports = quotes;
