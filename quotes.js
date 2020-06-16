@@ -837,6 +837,11 @@ const quotes = [
 		quote: 'Extend beyond your preconceived limits!',
 		author: 'Lorii Myers',
 	},
+	{
+		quote: 'Everything is gonna come together and its gonna be beautiful',
+		author: 'Sebastian ‘Ceb’ Debs',
+		source: 'The International 2018 - before final game',
+	},
 ];
 
 module.exports = quotes;
