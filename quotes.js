@@ -842,6 +842,16 @@ const quotes = [
 		author: 'Sebastian ‘Ceb’ Debs',
 		source: 'The International 2018 - before final game',
 	},
+	{
+		quote:
+			'At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.',
+		author: 'Lorii Myers',
+	},
+	{
+		quote:
+			'It isn’t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.',
+		author: 'Dale Carnegie',
+	},
 ];
 
 module.exports = quotes;
