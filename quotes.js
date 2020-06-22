@@ -852,6 +852,10 @@ const quotes = [
 			'It isn’t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.',
 		author: 'Dale Carnegie',
 	},
+	{
+		quote: 'Do not be afraid to give up the good for the great.',
+		author: 'Kenny Rogers',
+	},
 ];
 
 module.exports = quotes;
