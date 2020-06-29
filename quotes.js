@@ -860,6 +860,11 @@ const quotes = [
 		quote: 'Say yes to failure and pick the good thoughts.',
 		author: 'Josh Radnor',
 	},
+	{
+		quote:
+			'Failure is guaranteed; 100% you’re gonna fail. It’s just a matter of can you string together those failures so that it turns into something called success.',
+		author: 'Josh Radnor',
+	},
 ];
 
 module.exports = quotes;
