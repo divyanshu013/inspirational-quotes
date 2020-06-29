@@ -856,6 +856,10 @@ const quotes = [
 		quote: 'Do not be afraid to give up the good for the great.',
 		author: 'Kenny Rogers',
 	},
+	{
+		quote: 'Say yes to failure and pick the good thoughts.',
+		author: 'Josh Radnor',
+	},
 ];
 
 module.exports = quotes;
