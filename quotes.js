@@ -865,6 +865,11 @@ const quotes = [
 			'Failure is guaranteed; 100% you’re gonna fail. It’s just a matter of can you string together those failures so that it turns into something called success.',
 		author: 'Josh Radnor',
 	},
+	{
+		quote: `You can't cling to the past, because no matter how hard you hold on, its already gone`,
+		author: 'Ted Mosby',
+		source: 'How I Met Your Mother',
+	}
 ];
 
 module.exports = quotes;
