@@ -869,6 +869,10 @@ const quotes = [
 		quote: `You can't cling to the past, because no matter how hard you hold on, its already gone`,
 		author: 'Ted Mosby',
 		source: 'How I Met Your Mother',
+	},
+	{
+		quote: 'Life can only be understood backwards; but it must be lived forwards.',
+		author: 'Søren Kierkegaard',
 	}
 ];
 
