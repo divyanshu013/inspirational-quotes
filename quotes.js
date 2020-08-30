@@ -873,7 +873,12 @@ const quotes = [
 	{
 		quote: 'Life can only be understood backwards; but it must be lived forwards.',
 		author: 'Søren Kierkegaard',
-	}
+	},
+	{
+		quote: 'Man is not made for defeat, a man can be destroyed but not defeated',
+		author: 'Ernest Hemingway',
+		source: 'The Old Man and the Sea',
+	},
 ];
 
 module.exports = quotes;
