@@ -879,6 +879,9 @@ const quotes = [
 		author: 'Ernest Hemingway',
 		source: 'The Old Man and the Sea',
 	},
+	{
+		quote: 'You miss 100% of the shots you don’t take.',
+		author: 'Wayne Gretzky',
 ];
 
 module.exports = quotes;
