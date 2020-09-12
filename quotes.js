@@ -689,7 +689,7 @@ const quotes = [
 		source: 'Sirius Black - Harry Potter',
 	},
 	{
-		quote: 'We’re only as strong as strong as we’re united, as weak as we’re divided.',
+		quote: 'We’re only as strong as we’re united, as weak as we’re divided.',
 		author: 'J. K. Rowling',
 		source: 'Albus Dumbledore - Harry Potter',
 	},
