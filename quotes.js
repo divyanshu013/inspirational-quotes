@@ -882,6 +882,7 @@ const quotes = [
 	{
 		quote: 'You miss 100% of the shots you don’t take.',
 		author: 'Wayne Gretzky',
+	},
 ];
 
 module.exports = quotes;
