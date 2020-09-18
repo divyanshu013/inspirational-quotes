@@ -883,6 +883,10 @@ const quotes = [
 		quote: 'You miss 100% of the shots you don’t take.',
 		author: 'Wayne Gretzky',
 	},
+	{
+		quote: 'Having a dream is always better than getting there, the journey itself is what makes it beautiful',
+		author: 'Paul Davids',
+	},
 ];
 
 module.exports = quotes;
