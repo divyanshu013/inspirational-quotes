@@ -884,8 +884,20 @@ const quotes = [
 		author: 'Wayne Gretzky',
 	},
 	{
-		quote: 'Having a dream is always better than getting there, the journey itself is what makes it beautiful',
+		quote:
+			'Having a dream is always better than getting there, the journey itself is what makes it beautiful',
 		author: 'Paul Davids',
+	},
+	{
+		quote: 'Reading is faster than listening. Doing is faster than watching.',
+		author: 'Naval Ravikant',
+		source: 'How to Get Rich (Without Getting Lucky)',
+	},
+	{
+		quote:
+			'Become the best in the world at what you do. Keep redefining what you do until this is true.',
+		author: 'Naval Ravikant',
+		source: 'How to Get Rich (Without Getting Lucky)',
 	},
 ];
 
