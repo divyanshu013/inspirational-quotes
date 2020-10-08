@@ -899,6 +899,11 @@ const quotes = [
 		author: 'Naval Ravikant',
 		source: 'How to Get Rich (Without Getting Lucky)',
 	},
+	{
+		quote: 'If you make a mistake, try to do it twice and smile. That way people will think you meant it.',
+		author: 'Eddie Van Halen',
+		source: 'On life advice from his dad',
+	},
 ];
 
 module.exports = quotes;
