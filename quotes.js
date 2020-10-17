@@ -5,6 +5,10 @@ const quotes = [
 		author: 'Paulo Coelho',
 	},
 	{
+		quote: 'We have two lives, and the second begins when we realize we only have one.',
+		author: 'Confucius',
+	},
+	{
 		quote: 'And, when you want something, all the universe conspires in helping you to achieve it.',
 		author: 'Paulo Coelho',
 		source: 'The Alchemist',
