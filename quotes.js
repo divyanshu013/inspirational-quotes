@@ -904,9 +904,15 @@ const quotes = [
 		source: 'How to Get Rich (Without Getting Lucky)',
 	},
 	{
-		quote: 'If you make a mistake, try to do it twice and smile. That way people will think you meant it.',
+		quote:
+			'If you make a mistake, try to do it twice and smile. That way people will think you meant it.',
 		author: 'Eddie Van Halen',
 		source: 'On life advice from his dad',
+	},
+	{
+		quote:
+			'Your life is a firefly blink in a night. You’re here for such a brief period of time. If you fully acknowledge the futility of what you’re doing, then I think it can bring great happiness and peace because you realize this is a game. But it’s a fun game.',
+		author: 'Naval Ravikant',
 	},
 ];
 
