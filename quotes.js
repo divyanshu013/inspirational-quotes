@@ -914,6 +914,10 @@ const quotes = [
 			'Your life is a firefly blink in a night. You’re here for such a brief period of time. If you fully acknowledge the futility of what you’re doing, then I think it can bring great happiness and peace because you realize this is a game. But it’s a fun game.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'If wisdom could be imparted through words alone, we’d all be done here.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
