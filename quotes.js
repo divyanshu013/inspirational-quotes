@@ -918,6 +918,10 @@ const quotes = [
 		quote: 'If wisdom could be imparted through words alone, we’d all be done here.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'Inspiration is perishable — act on it immediately.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
