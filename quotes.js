@@ -48,16 +48,6 @@ const quotes = [
 	},
 	{
 		quote:
-			'The more you hurt at the parting, the more it proves the depth of your love. If you always fear sorrow you’ll never be able to love at all.',
-		author: 'Unknown',
-	},
-	{
-		quote:
-			'Work hard to improve your CGPA or work hard to improve your reason for getting a low CGPA',
-		author: 'Unknown',
-	},
-	{
-		quote:
 			'Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.',
 		author: 'Ferris Bueller',
 		source: 'Ferris Bueller’s Day Off',
@@ -259,27 +249,16 @@ const quotes = [
 	},
 	{
 		quote: 'You don’t have to be great to start, but you have to start to be great.',
-		author: ' Zig Ziglar',
+		author: 'Zig Ziglar',
 	},
 	{
 		quote: 'May your choices reflect your hopes, not your fears.',
 		author: 'Gary Vaynerchuk',
 	},
 	{
-		quote: 'If a fool is foolish enough he’ll achieve the impossible.',
-		author: 'Eiichiro Oda',
-		source: 'One Piece',
-	},
-	{
-		quote:
-			'When you kill a man at war, you’re branded as a hero; kill the same man at peace and you’re called a murderer',
-		author: 'Eiichiro Oda',
-		source: 'One Piece',
-	},
-	{
 		quote: 'Winners don’t make excuses when the other side plays the game.',
-		author: 'Unknown',
-		source: 'Harvey Specter - Suits',
+		author: 'Harvey Specter',
+		source: 'Suits',
 	},
 	{
 		quote:
@@ -436,10 +415,6 @@ const quotes = [
 		author: 'Matthew Keith Groves',
 	},
 	{
-		quote: 'You are very powerful, provided you know how powerful you are.',
-		author: 'Yogi Bhajan',
-	},
-	{
 		quote:
 			'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.',
 		author: 'Charles F. Kettering',
@@ -476,7 +451,7 @@ const quotes = [
 	},
 	{
 		quote:
-			'I always advice people - Don’t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can’t possibly lose.',
+			'I always advice people - Don’t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great experiences that are going to enrich you, then you can’t possibly lose.',
 		author: 'Steve Jobs',
 	},
 	{
@@ -537,16 +512,11 @@ const quotes = [
 	},
 	{
 		quote: 'This is your life, you can be anything…',
-		author: ' Gary Clark',
+		author: 'Gary Clark',
 		source: 'Drive it Like you Stole it - Sing Street',
 	},
 	{
 		quote: 'The most dangerous enemy is that which no one fears.',
-		author: 'Dan Brown',
-		source: 'Angels & Demons',
-	},
-	{
-		quote: 'Sometimes to find truth, one must move mountains.',
 		author: 'Dan Brown',
 		source: 'Angels & Demons',
 	},
@@ -644,11 +614,6 @@ const quotes = [
 		source: 'The Monk who sold his Ferrari',
 	},
 	{
-		quote: 'Success on the outside means nothing unless you also have success within.',
-		author: 'Robin Sharma',
-		source: 'The Monk who sold his Ferrari',
-	},
-	{
 		quote:
 			'As a teenager I made mixtapes for crushes with no interest in my music taste. Now I do talks! Life, uh, finds a way.',
 		author: 'Dan Abramov',
@@ -698,11 +663,6 @@ const quotes = [
 		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
-		quote: 'People find it far easier to forgive others for being wrong than being right.',
-		author: 'J. K. Rowling',
-		source: 'Albus Dumbledore - Harry Potter',
-	},
-	{
 		quote: 'Greatness inspires envy, envy endangers spite, spite spawns lies.',
 		author: 'J. K. Rowling',
 		source: 'Lord Voldemort - Harry Potter',
@@ -746,11 +706,6 @@ const quotes = [
 		quote:
 			'Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!',
 		author: 'Daireth Winehouse',
-	},
-	{
-		quote: 'Stand up straight, with your shoulders back',
-		author: 'Jordan Peterson',
-		source: '12 Rules for Life',
 	},
 	{
 		quote:
@@ -886,6 +841,7 @@ const quotes = [
 	{
 		quote: 'You miss 100% of the shots you don’t take.',
 		author: 'Wayne Gretzky',
+		source: 'Michael Scott - The Office',
 	},
 	{
 		quote:
