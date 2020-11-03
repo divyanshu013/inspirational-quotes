@@ -878,6 +878,10 @@ const quotes = [
 		quote: 'Inspiration is perishable — act on it immediately.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'The price of trying to make everyone else happy is making yourself miserable.',
+		author: 'Naval Ravikant',
+	},
 ];
 
 module.exports = quotes;
