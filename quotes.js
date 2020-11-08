@@ -882,6 +882,10 @@ const quotes = [
 		quote: 'The price of trying to make everyone else happy is making yourself miserable.',
 		author: 'Naval Ravikant',
 	},
+	{
+		quote: 'Life is to short to not try to keep getting better',
+		author: 'Mark Tremonti',
+	},
 ];
 
 module.exports = quotes;
