@@ -886,6 +886,10 @@ const quotes = [
 		quote: 'Life is to short to not try to keep getting better',
 		author: 'Mark Tremonti',
 	},
+	{
+		quote: `Rock 'n' Roll might not solve your problems, but it does let you dance all over them`,
+		author: 'Pete Townshend',
+	},
 ];
 
 module.exports = quotes;
