@@ -890,6 +890,10 @@ const quotes = [
 		quote: `Rock 'n' Roll might not solve your problems, but it does let you dance all over them`,
 		author: 'Pete Townshend',
 	},
+	{
+		quote: `If you work like no one else right now, you'll be able to live like no one else in the future`,
+		author: 'Aaron Benitez',
+	},
 ];
 
 module.exports = quotes;
