@@ -5,6 +5,10 @@ const quotes = [
 		author: 'Paulo Coelho',
 	},
 	{
+		quote: 'Don’t be afraid of losing, be afraid of playing a game and not learning something.',
+		author: 'Dan Heisman',
+	},
+	{
 		quote: 'We have two lives, and the second begins when we realize we only have one.',
 		author: 'Confucius',
 	},
