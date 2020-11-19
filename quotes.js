@@ -5,6 +5,10 @@ const quotes = [
 		author: 'Paulo Coelho',
 	},
 	{
+		quote: `If you're pursuing a goal you know you can do, it's the wrong goal.`,
+		author: 'Kobe Bryant',
+	},
+	{
 		quote: 'Don’t be afraid of losing, be afraid of playing a game and not learning something.',
 		author: 'Dan Heisman',
 	},
