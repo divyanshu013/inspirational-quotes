@@ -649,9 +649,14 @@ const quotes = [
 		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
-		quote: 'I don’t go looking for trouble, trouble usually finds me.',
+		quote: 'The best of us must sometimes eat our words.',
 		author: 'J. K. Rowling',
-		source: 'Harry - Harry Potter',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: 'It is our choices that show what we truly are, far more than our abilities.',
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
 		quote:
