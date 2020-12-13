@@ -665,6 +665,11 @@ const quotes = [
 		source: 'Albus Dumbledore - Harry Potter',
 	},
 	{
+		quote: 'What you fear most of all is - fear.',
+		author: 'J. K. Rowling',
+		source: 'Remus Lupin - Harry Potter',
+	},
+	{
 		quote:
 			'If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.',
 		author: 'J. K. Rowling',
