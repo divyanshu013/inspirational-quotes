@@ -912,6 +912,10 @@ const quotes = [
 		quote: `If you work like no one else right now, you'll be able to live like no one else in the future`,
 		author: 'Aaron Benitez',
 	},
+	{
+		quote: `Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.`,
+		author: 'Pete Cordell',
+	},
 ];
 
 module.exports = quotes;
