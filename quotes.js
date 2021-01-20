@@ -916,6 +916,26 @@ const quotes = [
 		quote: `Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.`,
 		author: 'Pete Cordell',
 	},
+	{
+		quote: `If you're holding out for universal popularity, I'm afraid you will be in this fashion for a very long time`,
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: `Understanding is the first step to acceptance, and only with acceptance can there be recovery.`,
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: `It matters not what someone is born, but what they grow to be!`,
+		author: 'J. K. Rowling',
+		source: 'Albus Dumbledore - Harry Potter',
+	},
+	{
+		quote: `The past is set, the future isn't.`,
+		author: 'William and Jack Joyce',
+		source: 'Quantum Break',
+	},
 ];
 
 module.exports = quotes;
