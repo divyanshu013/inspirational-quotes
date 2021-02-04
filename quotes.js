@@ -5,6 +5,11 @@ const quotes = [
 		author: 'Paulo Coelho',
 	},
 	{
+		quote: 'Ideas are more resilient than code.',
+		author: 'Jeremy Keith',
+		source: 'Resilient Web Design',
+	},
+	{
 		quote: `If you're pursuing a goal you know you can do, it's the wrong goal.`,
 		author: 'Kobe Bryant',
 	},
