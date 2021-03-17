@@ -941,6 +941,10 @@ const quotes = [
 		author: 'William and Jack Joyce',
 		source: 'Quantum Break',
 	},
+	{
+		quote: `What’s a master? I am surprised by Python all the time.`,
+		author: 'Guido van Rossum',
+	},
 ];
 
 module.exports = quotes;
