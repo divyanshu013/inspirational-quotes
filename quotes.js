@@ -1,5 +1,10 @@
 const quotes = [
 	{
+		quote: 'Adding manpower to a late software project makes it later',
+		author: 'Fred Brooks',
+		source: 'The Mythical Man-Month',
+	},
+	{
 		quote:
 			'One day you’ll wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.',
 		author: 'Paulo Coelho',
