@@ -137,6 +137,10 @@ const quotes = [
 		author: 'Richard Feynman',
 	},
 	{
+		quote: `Don’t regret anything in life. If it’s good, it’s wonderful. If it’s bad, it’s experience! When you win, you win. When you lose, you learn.`,
+		author: 'Richard Feynman',
+	},
+	{
 		quote:
 			'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.',
 		author: 'Charles F. Kettering',
