@@ -954,6 +954,10 @@ const quotes = [
 		quote: `What’s a master? I am surprised by Python all the time.`,
 		author: 'Guido van Rossum',
 	},
+	{
+		quote: `Frameworks are not tools for organizing your code, they are tools for organizing your mind`,
+		author: 'Rich Harris',
+	},
 ];
 
 module.exports = quotes;
