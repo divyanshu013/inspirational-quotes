@@ -5,6 +5,11 @@ const quotes = [
 		source: 'The Mythical Man-Month',
 	},
 	{
+		quote: 'Any sufficiently advanced technology is indistinguishable from magic.',
+		author: 'Arthur C. Clarke',
+		source: 'Profiles of the Future: An Inquiry into the Limits of the Possible',
+	},
+	{
 		quote:
 			'One day you’ll wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.',
 		author: 'Paulo Coelho',
