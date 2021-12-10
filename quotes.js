@@ -1,5 +1,9 @@
 const quotes = [
 	{
+		quote: `History doesn't repeat itself, but it does rhyme.`,
+		author: 'Mark Twain',
+	},
+	{
 		quote: 'Adding manpower to a late software project makes it later',
 		author: 'Fred Brooks',
 		source: 'The Mythical Man-Month',
