@@ -1,5 +1,10 @@
 const quotes = [
 	{
+		quote: `And then there is the most dangerous risk of all -- the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.`,
+		author: 'Randy Komisar',
+		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
+	},
+	{
 		quote: `History doesn't repeat itself, but it does rhyme.`,
 		author: 'Mark Twain',
 	},
