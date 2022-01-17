@@ -511,6 +511,11 @@ const quotes = [
 		author: 'Charles Bukowski',
 	},
 	{
+		quote: `The free soul is rare, but you know it when you see it — basically because you feel good, very good, when you are near or with them.`,
+		author: 'Charles Bukowski',
+		source: 'Tales of Ordinary Madness',
+	},
+	{
 		quote:
 			'Go confidently in the direction of your dreams. Live the life you’ve imagined. As you simplify your life, the laws of the universe will be simpler.',
 		author: 'Henry David Thoreau',
