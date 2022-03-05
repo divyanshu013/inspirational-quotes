@@ -5,6 +5,10 @@ const quotes = [
 		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
 	},
 	{
+		quote: `Composability is to software what compound interest is to finance.`,
+		author: 'Chris Dixon',
+	},
+	{
 		quote: `History doesn't repeat itself, but it does rhyme.`,
 		author: 'Mark Twain',
 	},
