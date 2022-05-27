@@ -41,6 +41,11 @@ const quotes = [
 		author: 'Dan Heisman',
 	},
 	{
+		quote: `A good manager doesn't fire people. He hires people and inspires people. And people will never go out of busines.`,
+		author: 'Michael Scott',
+		source: 'The Office',
+	},
+	{
 		quote: 'We have two lives, and the second begins when we realize we only have one.',
 		author: 'Confucius',
 	},
