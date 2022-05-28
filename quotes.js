@@ -5,6 +5,10 @@ const quotes = [
 		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
 	},
 	{
+		quote: `Making money is not a thing you do - it's a skill you learn.`,
+		author: 'Naval Ravikant',
+	},
+	{
 		quote: `Composability is to software what compound interest is to finance.`,
 		author: 'Chris Dixon',
 	},
