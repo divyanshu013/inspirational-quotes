@@ -5,6 +5,11 @@ const quotes = [
 		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
 	},
 	{
+		quote: `Creators need an immediate connection to what they create`,
+		author: 'Bret Victor',
+		source: 'Inventing on Principle',
+	},
+	{
 		quote: `Making money is not a thing you do - it's a skill you learn.`,
 		author: 'Naval Ravikant',
 	},
