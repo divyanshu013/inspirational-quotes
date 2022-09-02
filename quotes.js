@@ -42,6 +42,10 @@ const quotes = [
 		source: 'Resilient Web Design',
 	},
 	{
+		quote: 'If you want to change the world, start off by making your bed',
+		author: 'William H. McRaven',
+	},
+	{
 		quote: `If you're pursuing a goal you know you can do, it's the wrong goal.`,
 		author: 'Kobe Bryant',
 	},
