@@ -5,6 +5,10 @@ const quotes = [
 		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
 	},
 	{
+		quote: 'A writer is someone for whom writing is more difficult than it is for other people.',
+		author: 'Thomas Mann',
+	},
+	{
 		quote: `Creators need an immediate connection to what they create`,
 		author: 'Bret Victor',
 		source: 'Inventing on Principle',
