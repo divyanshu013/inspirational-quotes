@@ -9,6 +9,10 @@ const quotes = [
 		author: 'Thomas Mann',
 	},
 	{
+		quote: `Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.`,
+		author: 'Antoine de Saint-Exupéry',
+	},
+	{
 		quote: `Creators need an immediate connection to what they create`,
 		author: 'Bret Victor',
 		source: 'Inventing on Principle',
