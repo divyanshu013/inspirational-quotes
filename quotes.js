@@ -1007,6 +1007,25 @@ const quotes = [
 		quote: `Frameworks are not tools for organizing your code, they are tools for organizing your mind`,
 		author: 'Rich Harris',
 	},
+	{
+		quote: `You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.`,
+		author: 'Naval Ravikant',
+		source: 'How to Get Rich (Without Getting Lucky)',
+	},
+	{
+		quote: `You should be too busy to "do coffee" while still keeping an uncluttered calendar.`,
+		author: 'Naval Ravikant',
+		source: 'How to Get Rich (Without Getting Lucky)',
+	},
+	{
+		quote: `Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.`,
+		author: 'Naval Ravikant',
+		source: 'How to Get Rich (Without Getting Lucky)',
+	},
+	{
+		quote: `Caffeine equips us to cope with a world caffeine helped us create.`,
+		author: `Michael Pollan`,
+	},
 ];
 
 module.exports = quotes;
