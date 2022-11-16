@@ -9,6 +9,10 @@ const quotes = [
 		author: 'Thomas Mann',
 	},
 	{
+		quote: `Everything around you that you call life was made up by people that were no smarter than you.`,
+		author: 'Steve Jobs',
+	},
+	{
 		quote: `Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.`,
 		author: 'Antoine de Saint-Exupéry',
 	},
