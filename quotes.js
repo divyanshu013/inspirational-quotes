@@ -13,6 +13,19 @@ const quotes = [
 		author: 'Steve Jobs',
 	},
 	{
+		quote: `The best bridge between despair and hope is a good night's sleep.`,
+		author: 'E. Joseph Cossman',
+		source: 'Why we Sleep - Mathew Walker',
+	},
+	{
+		quote: `200 goals isn't a plan, its a wishlist`,
+		author: 'Jordan Peterson',
+	},
+	{
+		quote: `Set your house in perfect order before you criticize the world`,
+		author: 'Jordan Peterson',
+	},
+	{
 		quote: `Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.`,
 		author: 'Antoine de Saint-Exupéry',
 	},
