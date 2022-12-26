@@ -5,6 +5,10 @@ const quotes = [
 		source: 'The Monk and the Riddle: The Education of a Silicon Valley Entrepreneur',
 	},
 	{
+		quote: 'Some people are old at 18 and some are young at 90. Time is a concept that humans created.',
+		author: 'Yoko Ono',
+	},
+	{
 		quote: 'A writer is someone for whom writing is more difficult than it is for other people.',
 		author: 'Thomas Mann',
 	},
